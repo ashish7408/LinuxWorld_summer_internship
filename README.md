@@ -43,5 +43,5 @@ OUTPUT:
 menue:
 ![Screenshot (34)](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/f17b4c13-73bc-4c40-bf95-fd00113d1173)
 linux command executer :
-![Screenshot (33)](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/18a6b4a0-a25f-4646-b6a1-6744d07a6cb3)
+![image](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/9d5ad512-9f50-4a8b-91b0-634dc6ecd411)
 
