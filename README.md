@@ -40,7 +40,7 @@ Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request.
 
 OUTPUT:
-menue:
+menu:
 ![Screenshot (34)](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/f17b4c13-73bc-4c40-bf95-fd00113d1173)
 linux command executer :
 ![image](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/9d5ad512-9f50-4a8b-91b0-634dc6ecd411)
